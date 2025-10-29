@@ -1,0 +1,1 @@
+# Analisis-Disparitas-Dokter-Umum-dan-Dokter-Spesialis-di-Provinsi-Jawa-Barat-dgn-Metode-Data-Mining
